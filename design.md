@@ -107,11 +107,8 @@ The optimal route is:
 
 This route has the lowest cumulative distance among the possible routes represented in the graph.
 
-Using Uniform Cost Search, the agent prioritises the path with the lowest cumulative cost, guaranteeing an optimal solution when all road distances are non-negative.
+Using Uniform Cost Search, the agent prioritises the path with the lowest cumulative cost.
 
-Compared to the second-shortest route, this path saves:
-
-384.1 - 352 = **32.1 km**
 
 
 
