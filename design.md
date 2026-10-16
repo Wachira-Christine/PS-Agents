@@ -27,7 +27,6 @@ Where:
 - d represents the distance between consecutive towns.
 - k represents the number of road segments.
 
-Uniform Cost Search (UCS) is suitable for finding the optimal path because it prioritises the node with the lowest cumulative path cost.
 
 ### 3.2 Possible Routes and Distance Calculations
 
