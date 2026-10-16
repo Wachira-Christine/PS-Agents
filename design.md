@@ -2,6 +2,25 @@
 ### Natalie Shalo- 192640
 ### Wachira Christine-176128
 
+## Question 1: Designing the Self-Driving Trailer Agent
+
+### 1.1 PEAS Framework
+
+The PEAS framework describes an intelligent agent in terms of its Performance Measure, Environment, Actuators, and Sensors. The self-driving trailer agent is designed to transport goods from Nairobi to Kisumu using Kenya's highway network.
+
+![PEAS Framework Table](https://github.com/user-attachments/assets/685190cf-1fe8-4efe-81b1-1b0e64eda0f4)
+
+
+### 1.2 Classification of the Agent Environment
+
+The self-driving trailer's environment can be classified using five properties.
+
+![Classification of the Agent Environment](https://github.com/user-attachments/assets/2efbff47-2daa-4445-9faf-12eaa3eb9acb)
+
+### Conclusion
+
+The self-driving trailer operates in a partially observable, stochastic, sequential, dynamic, and continuous environment. It uses sensors to gather information, makes decisions based on the available information, and uses actuators to control its movements. For route planning, Kenya's highway network can be represented as a discrete, weighted graph in which towns represent states, roads represent connections, and distances represent path costs. This representation helps the agent identify an optimal route from Nairobi to Kisumu.
+
 
 ## Question 2: Kenya Highway Network: Directed Graph and Search Tree
 ### Nodes are states and arcs are actions. Every highway can be driven in both directions, so each road is represented by two directed arcs (A→B and B→A) with the same cost.
