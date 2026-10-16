@@ -1,4 +1,6 @@
-# Abraham Kilwake-190400, Natalie Shalo- 192640, Wachira Christine-176128
+# Abraham Kilwake-190400
+Natalie Shalo- 192640
+Wachira Christine-176128
 
 
 ## Question 2: Kenya Highway Network: Directed Graph and Search Tree
